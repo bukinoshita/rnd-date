@@ -1,0 +1,28 @@
+{
+  "name": "rnd-date",
+  "version": "0.0.0",
+  "description": "Get a random date",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:bukinoshita/rnd-date.git",
+    "type": "git"
+  },
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "esnext": true,
+    "rules": {
+      "no-unused-expressions": 0,
+      "no-mixed-operators": 0
+    }
+  }
+}
