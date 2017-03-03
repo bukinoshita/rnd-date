@@ -2,6 +2,7 @@
 > Get a random date
 
 [![Codeship Status for bukinoshita/rnd-date](https://app.codeship.com/projects/4f784b50-df3c-0134-18b2-7ad887c2726d/status?branch=master)](https://app.codeship.com/projects/204866)
+[![Build Status](https://travis-ci.org/bukinoshita/rnd-date.svg?branch=master)](https://travis-ci.org/bukinoshita/rnd-date)
 [![GitHub release](https://img.shields.io/github/release/bukinoshita/rnd-date.svg)](https://www.npmjs.com/package/rnd-date)
 [![license](https://img.shields.io/github/license/bukinoshita/rnd-date.svg)](https://raw.githubusercontent.com/bukinoshita/rnd-date/master/LICENSE)
 
