@@ -31,7 +31,7 @@ Required
 
 #### to
 Type: `Number`<br/>
-Default: `new Date()``<br/>
+Default: `new Date()`<br/>
 Optional
 
 ## Related
