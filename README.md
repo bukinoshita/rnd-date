@@ -26,12 +26,12 @@ rndDate(2010, new Date()).then(randomDate => console.log(randomDate))
 ### rnd-date(from, to)
 
 #### from
-Type: Number<br/>
+Type: `Number`<br/>
 Required
 
 #### to
-Type: Number<br/>
-Default: new Date()<br/>
+Type: `Number`<br/>
+Default: `new Date()``<br/>
 Optional
 
 ## Related
