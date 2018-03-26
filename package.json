@@ -1,6 +1,6 @@
 {
   "name": "rnd-date",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get a random date",
   "main": "index.js",
   "repository": {
