@@ -1,7 +1,7 @@
 'use strict'
 
 import test from 'ava'
-import rndDate from './..'
+import rndDate from '..'
 
 test('should return a random date when passing one argument', t => {
   const rnd = rndDate(2010)
